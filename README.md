@@ -71,3 +71,8 @@ Report tersimpan di `output/report_<waktu>.html`.
 ├── output/            # report HTML
 └── README.md
 ```
+
+## Note
+```
+silahkan kunjungi https://github.com/spyschools/osint-indonesia-v5 untuk mendapatkan versi sebelumnya
+```
