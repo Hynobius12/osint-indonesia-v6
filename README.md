@@ -22,7 +22,7 @@ Tools OSINT sederhana untuk melakukan pencarian informasi berdasarkan **NIK** at
 Clone repository:
 
 ```bash
-git clone https://github.com/spyschools/osint-indonesia-v5.git
+git clone https://github.com/Hynobius12/osint-indonesia-v5.git
 ```
 
 Masuk ke folder project:
